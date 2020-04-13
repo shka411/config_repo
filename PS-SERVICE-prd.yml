@@ -1,0 +1,3 @@
+spring:
+  profiles: prd
+  message: Hello Spring PS - SERVICE Prd Server!!
