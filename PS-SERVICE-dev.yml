@@ -1,0 +1,3 @@
+spring:
+  profiles: local
+  message: Hello Spring PS - SERVICE Local Server!!
